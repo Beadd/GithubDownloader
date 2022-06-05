@@ -1,5 +1,5 @@
 # GithubDownloader
-Batch download user's repository.
+Batch download user's repository.<br>
 批量下载某个用户的所有Star仓库,批量下载某个用户的所有仓库
 # 关于 About
 - Batch download all of a user's repositories
